@@ -1,2 +1,2 @@
 # Nedo_snake
-Skane
+Snale
